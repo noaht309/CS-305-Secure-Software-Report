@@ -1,0 +1,4 @@
+# CS-305-Secure-Software-Report
+In this assessment, I found security vulnerabilities in several different forms. This includes insecure API interactions, insufficient input validation, improper error handling, improper encapsulation, bad coding practices, and lack of encryption for data in transit and data at rest. In any website development, most design and implementation flaws should be found before the site goes live to ensure data privacy and integrity. I did well in this assessment because I found so many vulnerabilities. However, software is a continuous part of any software development cycle, so this is only the first step. Potential consequences from ignoring security vulnerabilities can include Artemis Financial losing money, losing clients, damaging its reputation, and breaking laws.
+
+
